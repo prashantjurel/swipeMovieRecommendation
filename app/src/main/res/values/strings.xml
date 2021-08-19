@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="you">You</string>
+    <string name="movie_album_art">Movie Album Art</string>
+    <string name="imdb_icon">IMDb icon</string>
+</resources>
